@@ -30,11 +30,12 @@
 
 ### 🔹 AI & Machine Learning
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Yolo_logo.jpg" width="36" height="36" alt="YOLO" />
+  <img src="https://raw.githubusercontent.com/AlexeyAB/darknet/master/darknet.png" width="36" height="36" alt="YOLO" />
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="36" height="36" alt="LLM" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/RAG_logo.png" width="36" height="36" alt="RAG" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/LSTM_Cell.svg" width="36" height="36" alt="LSTM" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/RAG.svg/120px-RAG.svg.png" width="36" height="36" alt="RAG" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/LSTM_Cell.svg/120px-LSTM_Cell.svg.png" width="36" height="36" alt="LSTM" />
 </p>
+
 
 ### 🔹 Blockchain & Web3
 <p align="left">
